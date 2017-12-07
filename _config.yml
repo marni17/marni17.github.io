@@ -3,7 +3,7 @@ description: My Personal Blog
 author: marni
 logo: static/img/avatar.jpg
 github: https://github.com/codeasashu
-about: Freelance developer
+about: 
 
 baseurl: ""
 url: ""
