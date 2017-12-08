@@ -5,8 +5,9 @@ date:   2017-12-8 16:18:39
 categories: jekyll
 ---
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Xiaomi Redmi 5 Plus
 
+Sesuai namanya, Redmi 5 Plus mengusung layar yang lebih besar dari Redmi 5, yakni 5,99 inci. Selebihnya, desain tetap sama dengan layar FullView berasio 18:9. 
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
