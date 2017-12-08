@@ -4,7 +4,7 @@ title:  "Xiaomi Redmi 5 dan Redmi 5 Plus Resmi Meluncur, Harga Rp 1 Jutaan"
 date:   2017-12-8 16:18:39
 categories: jekyll
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+http://tekno.kompas.com/read/2017/12/08/10310017/xiaomi-redmi-5-dan-redmi-5-plus-resmi-meluncur-harga-rp-1-jutaan
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
