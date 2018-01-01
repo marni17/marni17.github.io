@@ -1,24 +1,39 @@
 ---
 layout: post
-title:  "Xiaomi Redmi 5 dan Redmi 5 Plus Resmi Meluncur, Harga Rp 1 Jutaan"
+title:  "Hello"
 date:   2017-12-8 16:18:39
 categories: jekyll
 ---
 
-Xiaomi Redmi 5 Plus
+Profil Jurusan
 
-Sesuai namanya, Redmi 5 Plus mengusung layar yang lebih besar dari Redmi 5, yakni 5,99 inci. Selebihnya, desain tetap sama dengan layar FullView berasio 18:9. 
-Jekyll also offers powerful support for code snippets:
+Program Study (Prodi) : Sistem Informasi (SI)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Jurusan/Department : Sistem Informasi
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Fakultas : Sains dan Teknologi
+
+Perguruan Tinggi : Universitas Islam Negeri Sultan Syarif Kasim Riau
+
+No.SK Pendirian Program Studi (*) : DJ.II/26/2006
+
+Tanggal SK Pendirian Program Studi : 20 Februari 2006
+
+Pejabat Penandatangan SK Pendirian Program Studi : Direktur Jenderal Perguruan Tinggi
+
+Bulan dan Tahun dimulainya Penyelenggaraan Program Studi : Juli 2002
+
+Nomor SK Izin Operasional (*) : Dj.I/123/2012
+
+Tanggal SK Izin Operasional : 25 Januari 2012
+
+Peringkat (Nilai) Akreditasi Terakhir : B
+
+Nomor SK BAN-PT : 032/ BAN – PT/ Ak – XV/ SI/ X/ 2012
+
+Alamat Program Studi : Jl. H.R.Soebrantas No. 155 Km.15 Panam – Pekanbaru – Riau
+
+No. Telepon Program Studi : 085365618811
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
